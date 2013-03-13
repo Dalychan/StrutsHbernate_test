@@ -1,0 +1,4 @@
+StrutsHbernate_test
+===================
+
+test
